@@ -5,7 +5,7 @@ This is a Pong game controlled by an Arduino using distance and color sensors. T
 ![Project Setup](controller.png)
 
 ## Watch the Game in Action
-[Watch the Pong Game Video](example.mkv)
+[Watch the Pong Game Video](example.mp4)
 ## Features
 - **Paddle Control:** Distance sensors control the movement of the paddles.
 - **Power-Ups:** Color sensors trigger power-ups, such as enlarging paddles or slowing down the opponent.
