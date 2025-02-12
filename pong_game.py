@@ -281,7 +281,7 @@ def update_score():
         canvas.itemconfig(score_display, text=f"{left_score} - {right_score}",fill="blue")
     else:
         canvas.itemconfig(score_display, text=f"{left_score} - {right_score}",fill="white")
-    if left_score == 1 or right_score == 10:
+    if left_score == 5 or right_score == 5:
         show_end_frame()
 
 def show_end_frame():
